@@ -85,3 +85,12 @@ body {
   .mr-2 {
     text-decoration: none;
   }
+
+    .account-heading{{
+        font-size:19px;
+    }}
+    @media screen and (min-width: 800px) {{
+        .center{{
+            font-size:25px;
+        }}
+    }}  
