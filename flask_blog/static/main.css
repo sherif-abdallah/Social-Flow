@@ -86,11 +86,12 @@ body {
     text-decoration: none;
   }
 
+
     .account-heading{{
         font-size:19px!important;
     }}
     @media screen and (min-width: 800px) {{
-        .center{{
+        .account-heading{{
             font-size:25px!important;
         }}
     }}  
