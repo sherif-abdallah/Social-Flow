@@ -5,7 +5,7 @@ A blog app with many features such as - View Blogs written by community, Write y
 ## Table of Content
 - [Flask Blog](#flask-blog)
   * [Tools](#tools)
-  * [How to run]
+  * [How to run](#how-to-run)
   * [URL](#URL)
   * [Author](#author)
 
